@@ -1,0 +1,16 @@
+{
+  "name": "caixa",
+  "version": "1.0.0",
+  "description": "Teste Asseinfo",
+  "main": "caixa.js",
+  "dependencies": {
+    "socket.io": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node caixa.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Piva",
+  "license": "ISC"
+}

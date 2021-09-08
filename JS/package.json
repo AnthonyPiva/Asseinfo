@@ -4,6 +4,7 @@
   "description": "Teste Asseinfo",
   "main": "caixa.js",
   "dependencies": {
+    "prompt-sync": "^4.2.0",
     "socket.io": "^4.2.0"
   },
   "devDependencies": {},
